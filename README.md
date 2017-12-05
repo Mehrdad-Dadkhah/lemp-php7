@@ -1,5 +1,5 @@
 # lemp-php7
-Docker compose file to run web server with nginx, mysql, redis, php7, phpmyadmin and ...
+Docker compose file to run web server with nginx, mysql, redis, php7, phpmyadmin and ... with composer version 2.
 
 it's a best and easiest way to up a complete development envirment with latest version of:
 
@@ -8,6 +8,7 @@ it's a best and easiest way to up a complete development envirment with latest v
  - Redis
  - PhpMyadmin
  - nginx
+ - rabbitmq
 
 ##usage
 if you have not install [docker at first install it](https://docs.docker.com/engine/installation/)
